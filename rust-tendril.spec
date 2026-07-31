@@ -5,8 +5,8 @@
 %global crate tendril
 
 Name:           rust-%{crate}
-Version:        0.4.1
-Release:        4%{?dist}
+Version:        0.5.1
+Release:        1%{?dist}
 Summary:        Compact buffer/string type for zero-copy parsing
 
 # Upstream license specification: MIT/Apache-2.0
